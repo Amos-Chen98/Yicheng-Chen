@@ -17,22 +17,22 @@ weight: 30
 # **This is the body part1
 
 title: Skills
-subtitle: ''
+subtitle: 'subtile for test'
 
-content:
-  # Filter toolbar (optional).
-  # Add or remove as many filters (`filter_button` instances) as you like.
-  # To show all items, set `tag` to "*".
-  # To filter by a specific tag, set `tag` to an existing tag name.
-  # To remove the toolbar, delete the entire `filter_button` block.
-  # filter_button:
-  # - name: All
-  #   tag: '*'
-  # - name: Deep Learning
-  #   tag: Deep Learning
-  # - name: Other
-  #   tag: Demo
-  - This is a test.
+# content:
+#   # Filter toolbar (optional).
+#   # Add or remove as many filters (`filter_button` instances) as you like.
+#   # To show all items, set `tag` to "*".
+#   # To filter by a specific tag, set `tag` to an existing tag name.
+#   # To remove the toolbar, delete the entire `filter_button` block.
+#   # filter_button:
+#   # - name: All
+#   #   tag: '*'
+#   # - name: Deep Learning
+#   #   tag: Deep Learning
+#   # - name: Other
+#   #   tag: Demo
+#   - This is a test.
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
@@ -53,6 +53,13 @@ design:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
+feature:
+- name: R
+
+- name: Python
+
+- name: C++
+
 # feature:
 # - description: 90%
 #   icon: r-project
