@@ -42,9 +42,9 @@ item:
 - certificate_url: ""
   date_end: "2019-09-01"
   date_start: "2017-09-17"
-  description: "Scholarship for excellence in social work (Special class × 1, first class × 1, second class × 2);
-                Scholarship for excellence in academy (second class × 1);
-                Scholarship for excellence in competition (second class × 1);
+  description: "Scholarship for excellence in social work (Special class × 1, first class × 1, second class × 2);  
+                Scholarship for excellence in academy (second class × 1);  
+                Scholarship for excellence in competition (second class × 1);  
                 Scholarship for excellence in student activities (second class × 1)"
   organization: Beihang University
   organization_url: https://ev.buaa.edu.cn/
