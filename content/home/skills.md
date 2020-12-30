@@ -17,6 +17,7 @@ weight: 30
 # **This is the body part1
 
 title: Skills
+
 subtitle: 'Programming Languages'
 
 # content:
@@ -34,19 +35,19 @@ subtitle: 'Programming Languages'
 #   #   tag: Demo
 #   - This is a test.
 
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
+# design:
+#   # Choose how many columns the section has. Valid values: '1' or '2'.
+#   columns: '2'
 
-  # Toggle between the various page layout types.
-  #   1 = List
-  #   2 = Compact
-  #   3 = Card
-  #   5 = Showcase
-  view: 2
+#   # Toggle between the various page layout types.
+#   #   1 = List
+#   #   2 = Compact
+#   #   3 = Card
+#   #   5 = Showcase
+#   view: 2
 
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+#   # For Showcase view, flip alternate rows?
+#   flip_alt_rows: false
 
 
 
@@ -55,8 +56,10 @@ design:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: MATLAB
+  - name: blabla
 
 - name: Python
+  - name: test
 
 - name: C/C++
 
@@ -65,18 +68,18 @@ feature:
 - name: Assembly
 
 
-subtitle: 'Softwares and framework'
+# subtitle: 'Softwares and framework'
 
-feature:
-- name: OpenCV
+# feature:
+# - name: OpenCV
 
-- name: Simulink
+# - name: Simulink
 
-- name: Proteus
+# - name: Proteus
 
-- name: Solidworks
+# - name: Solidworks
 
-- name: Tensorflow
+# - name: Tensorflow
 
 
 # feature:
