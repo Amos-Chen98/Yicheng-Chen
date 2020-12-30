@@ -23,28 +23,31 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: media/ECMI-certificated.pdf
-  date_end: "2020-07-12"
+- certificate_url: ""
+  date_end: ""
   date_start: "2020-07-06"
   description: ""
   organization: Peter the Great St.Petersburg Polytechnic University
   organization_url: https://english.spbstu.ru/
   title: ECMI Modelling Week
   url: ""
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2018-03-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-- certificate_url: https://www.datacamp.com
-  date_end: "2017-12-21"
-  date_start: "2017-07-01"
-  description: ""
-  organization: DataCamp
-  organization_url: https://www.datacamp.com
-  title: 'Object-Oriented Programming in R: S3 and R6 Course'
+- certificate_url: ""
+  date_end: "2019-09-01"
+  date_start: "2017-09-17"
+  description: Received the "Merit student" Award in Beihang University for three successive years.
+  organization: Beihang University
+  organization_url: https://ev.buaa.edu.cn/
+  title: Merit Student for three successive years
+  url: ""
+- certificate_url: ""
+  date_end: "2019-09-01"
+  date_start: "2017-09-17"
+  description: "Scholarship for excellence in social work (Special class × 1, first class × 1, second class × 2);
+                Scholarship for excellence in academy (second class × 1);
+                Scholarship for excellence in competition (second class × 1);
+                Scholarship for excellence in student activities (second class × 1)"
+  organization: Beihang University
+  organization_url: https://ev.buaa.edu.cn/
+  title: '6 items of scholarships'
   url: ""
 ---
