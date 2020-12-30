@@ -65,10 +65,6 @@ feature:
 
 - name: Assembly
 
-...
-
----
-
 opencv
 
 
@@ -114,4 +110,4 @@ opencv
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
-...
+---
