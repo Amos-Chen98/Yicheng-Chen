@@ -6,7 +6,7 @@ tags:
 date: "2020.05-2020.06"
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://www.kaggle.com/yichengchen2020/radiography-classification-with-various-models"
+external_link: ""
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
