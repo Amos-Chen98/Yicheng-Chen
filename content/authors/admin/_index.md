@@ -43,28 +43,29 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
-# - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-#   icon_pack: fas
-#   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/Yicheng_Chen8
+
 - icon: github
   icon_pack: fab
   link: https://github.com/Amos-Chen98
-# - icon: linkedin
-  # icon_pack: fab
-  # link: https://www.linkedin.com/
+
+- icon: kaggle
+  icon_pack: fab
+  link: https://www.kaggle.com/yichengchen2020
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: media/resume.pdf
+- icon: cv
+  icon_pack: ai
+  link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "yicheng@buaa.edu.cn"
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -73,4 +74,4 @@ highlight_name: false
 Yicheng Chen is working toward his B.E. degree with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His current research interests include deep learning, modeling and simulation, path planning and UAV.
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
