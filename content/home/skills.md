@@ -18,10 +18,9 @@ weight: 30
 
 title: Skills
 subtitle: subtitle1
-main: This is the body part1
-# * This is the body part1
-subtitle: subtitle2
-main: This is the body part2
+- This is a test to find | 
+whether I'm working well with YAML.
+
 
 
 # Showcase personal skills or business features.
