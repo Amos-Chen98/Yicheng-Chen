@@ -65,8 +65,6 @@ feature:
 
 - name: Assembly
 
-- opencv
-
 
 # subtitle: 'Softwares and framework'
 
@@ -111,3 +109,5 @@ feature:
 #  name: "Surfing"
 #  description: "90%"
 ---
+
+This is a markdowm script.
