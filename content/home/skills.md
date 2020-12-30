@@ -17,7 +17,7 @@ weight: 30
 # **This is the body part1
 
 title: Skills
-subtitle: 'subtile for test'
+subtitle: 'Programming Languages'
 
 # content:
 #   # Filter toolbar (optional).
@@ -54,11 +54,30 @@ design:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- name: R
+- name: MATLAB
 
 - name: Python
 
-- name: C++
+- name: C/C++
+
+- name: Verilog
+
+- name: Assembly
+
+
+subtitle: 'Softwares and framework'
+
+feature:
+- name: OpenCV
+
+- name: Simulink
+
+- name: Proteus
+
+- name: Solidworks
+
+- name: Tensorflow
+
 
 # feature:
 # - description: 90%
