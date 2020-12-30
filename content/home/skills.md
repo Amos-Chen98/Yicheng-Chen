@@ -110,12 +110,16 @@ design:
 #  description: "90%"
 ---
 
-This is a markdowm script.
 
-## Programming Language
 
-### MATLAB
+Programming Language
 
-## Softwares & Framework
+### MATLAB　　Python　　C/C++　　Verilog　　Assembly
 
-### OpenCV  Tensorflow
+Software & Framework
+
+### OpenCV　　Simulink　　Proteus　　Solidworks　　Tensorflow
+
+Hardware
+
+### FPGA　Arduino
