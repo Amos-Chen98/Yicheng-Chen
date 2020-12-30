@@ -18,10 +18,10 @@ weight: 30
 
 title: Skills
 subtitle: subtitle1
-* This is the body part1
-* This is the body part1
+main: This is the body part1
+# * This is the body part1
 subtitle: subtitle2
-* This is the body part2
+main: This is the body part2
 
 
 # Showcase personal skills or business features.
