@@ -56,16 +56,18 @@ subtitle: 'Programming Languages'
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - name: MATLAB
-  - name: blabla
 
 - name: Python
-  - name: test
 
 - name: C/C++
 
 - name: Verilog
 
 - name: Assembly
+
+
+feature:
+  - name: OpenCV
 
 
 # subtitle: 'Softwares and framework'
