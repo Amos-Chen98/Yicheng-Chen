@@ -18,7 +18,7 @@ weight: 30
 
 title: Skills
 
-subtitle: 'Programming Languages'
+# subtitle: 'Programming Languages'
 
 # content:
 #   # Filter toolbar (optional).
@@ -35,16 +35,16 @@ subtitle: 'Programming Languages'
 #   #   tag: Demo
 #   - This is a test.
 
-# design:
-#   # Choose how many columns the section has. Valid values: '1' or '2'.
-#   columns: '2'
+design:
+  # Choose how many columns the section has. Valid values: '1' or '2'.
+  columns: '2'
 
-#   # Toggle between the various page layout types.
-#   #   1 = List
-#   #   2 = Compact
-#   #   3 = Card
-#   #   5 = Showcase
-#   view: 2
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact
+  #   3 = Card
+  #   5 = Showcase
+  view: 2
 
 #   # For Showcase view, flip alternate rows?
 #   flip_alt_rows: false
@@ -54,16 +54,16 @@ subtitle: 'Programming Languages'
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- name: MATLAB
+# feature:
+# - name: MATLAB
 
-- name: Python
+# - name: Python
 
-- name: C/C++
+# - name: C/C++
 
-- name: Verilog
+# - name: Verilog
 
-- name: Assembly
+# - name: Assembly
 
 
 # subtitle: 'Softwares and framework'
@@ -111,3 +111,11 @@ feature:
 ---
 
 This is a markdowm script.
+
+## Programming Language
+
+### MATLAB
+
+## Softwares & Framework
+
+### OpenCV  Tensorflow
