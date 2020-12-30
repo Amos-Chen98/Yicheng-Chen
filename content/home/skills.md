@@ -43,18 +43,17 @@ title: Skills
 #  description: "90%"
 ---
 
-Programming Language
-
+Programming Languages
 #### MATLAB　　Python　　C/C++　　Verilog　　Assembly
-
 <br/>
 
 Software & Framework
-
-#### OpenCV　　Simulink　　Proteus　　Solidworks　　Tensorflow
-
+#### Simulink　　Proteus　　OpenCV　　Tensorflow
 <br/>
 
 Hardware
+#### FPGA　　Arduino
+<br/>
 
-#### FPGA　Arduino
+Mechanical design
+#### Solidworks　　AutoCAD
