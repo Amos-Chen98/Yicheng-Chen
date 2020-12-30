@@ -14,7 +14,7 @@ organizations:
   url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My current research interests include deep learning, modeling and simulation, path planning and UAV.
 
 # Interests to show in About widget
 interests:
@@ -43,7 +43,6 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
-  name: yicheng@buaa.edu.cn
 
 - icon: researchgate
   icon_pack: ai
@@ -66,7 +65,7 @@ social:
   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "yicheng@buaa.edu.cn"
+email: ""
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
