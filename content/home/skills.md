@@ -65,9 +65,11 @@ feature:
 
 - name: Assembly
 
+...
 
-feature:
-  - name: OpenCV
+---
+
+opencv
 
 
 # subtitle: 'Softwares and framework'
@@ -112,4 +114,4 @@ feature:
 #  icon_pack: "custom"
 #  name: "Surfing"
 #  description: "90%"
----
+...
