@@ -115,7 +115,9 @@ researchgate = "https://www.researchgate.net/profile/Yicheng_Chen8"
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
- contact_links = []
+ contact_links = [
+   {icon = "researchgate", icon_pack = 'ai', name = "ResearchGate", link = "https://www.researchgate.net/profile/Yicheng_Chen8"}
+ ]
 
 
 ############################
