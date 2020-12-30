@@ -23,13 +23,13 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- certificate_url: https://www.coursera.org
-  date_end: ""
-  date_start: "2018-10-01"
+- link: media/ECMI-certificated.pdf
+  date_end: "2020-07-12"
+  date_start: "2020-07-06"
   description: ""
-  organization: Coursera
-  organization_url: https://www.coursera.org
-  title: Neural Networks and Deep Learning
+  organization: Peter the Great St.Petersburg Polytechnic University
+  organization_url: https://english.spbstu.ru/
+  title: ECMI Modelling Week
   url: ""
 - certificate_url: https://www.edx.org
   date_end: ""
