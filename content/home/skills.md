@@ -65,7 +65,7 @@ feature:
 
 - name: Assembly
 
-opencv
+- opencv
 
 
 # subtitle: 'Softwares and framework'
