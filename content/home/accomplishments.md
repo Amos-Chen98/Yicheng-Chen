@@ -23,7 +23,7 @@ date_format: Jan 2006
 #   Leave other parameters empty if not required.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
-- link: media/ECMI-certificated.pdf
+- certificate_url: media/ECMI-certificated.pdf
   date_end: "2020-07-12"
   date_start: "2020-07-06"
   description: ""
