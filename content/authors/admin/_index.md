@@ -43,6 +43,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '/#contact'
+  name: yicheng@buaa.edu.cn
 
 - icon: researchgate
   icon_pack: ai
