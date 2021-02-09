@@ -6,7 +6,7 @@ title: Yicheng Chen
 superuser: true
 
 # Role/position/tagline
-role: Bachelor candidate of Automation Science
+role: Bachelor candidate in Automation Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,7 +14,7 @@ organizations:
   url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My current research interests include deep learning, modeling and simulation, path planning and UAV.
+bio: My current research interests include motion planning, pattern recognition and reinforcement learning.
 
 # Interests to show in About widget
 interests:
