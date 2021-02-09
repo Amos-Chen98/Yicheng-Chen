@@ -1,6 +1,6 @@
 ---
 title: An Algorithm for Diagnosing COVID-19 Based on Neural Network
-summary: Based on transfer learning and ensemble learning, a neural network is built, which can classify chest radiography into 3 classes (COVID, NORMAL and Viral Pneumonia) with accuracy of more than 0.98.
+summary: 2020.05-2020.06 | Based on transfer learning and ensemble learning, a neural network is built, which can classify chest radiography into 3 classes (COVID, NORMAL and Viral Pneumonia) with accuracy of more than 0.98.
 tags:
 - Computer Vision
 - Deep Learning
@@ -32,3 +32,5 @@ slides: ""
 ---
 
 Based on transfer learning and ensemble learning, a neural network is built, which can classify chest radiography into 3 classes (COVID, NORMAL and Viral Pneumonia) with accuracy of more than 0.98. Code is shared on Kaggle: https://www.kaggle.com/yichengchen2020/radiography-classification-with-various-models. For more detailed introduction to this project, please refer to the attached PDF file.
+
+2020.05-2020.06
