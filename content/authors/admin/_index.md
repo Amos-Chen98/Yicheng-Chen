@@ -18,22 +18,23 @@ bio: My current research interests include deep learning, modeling and simulatio
 
 # Interests to show in About widget
 interests:
-- Automatic Control
+- Motion Planning
 - Pattern Recognition
 - Reinforcement Learning
 
 # Education to show in About widget
 education:
   courses:
-  - institution: Peter the Great St.Petersburg Polytechnic University 
-    course: Visiting Student (Online work)
-    year: 2020.07
-  - course: Visiting Student in the Department of Applied Mathematics and Computer Science
-    institution: Technical University of Denmark
-    year: 2019.08
-  - course: B.E. in the School of Automation Science and Electrical Engineering
-    institution: Beihang University
+  - course: B.E. in Automation Science
+    institution: School of Automation Science and Electrical Engineering, Beihang University
     year: 2017-2021
+  - course: Visiting Student (Online work)
+    institution: Peter the Great St.Petersburg Polytechnic University 
+    year: 2020.07
+  - course: Visiting Student
+    institution: Department of Applied Mathematics and Computer Science, Technical University of Denmark
+    year: 2019.08
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -60,9 +61,9 @@ social:
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
 # and uncomment the lines below.
-- icon: cv
-  icon_pack: ai
-  link: media/resume.pdf
+# - icon: cv
+#   icon_pack: ai
+#   link: media/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
@@ -71,7 +72,7 @@ email: ""
 highlight_name: false
 ---
 
-Yicheng Chen is working toward his B.E. degree with the School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His current research interests include deep learning, modeling and simulation, path planning and UAV.
+Yicheng Chen is working toward his B.E. degree with School of Automation Science and Electrical Engineering, Beihang University, Beijing, China. His current research interests include motion planning, pattern recognition and reinforcement learning.
 
 
-<!-- {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}. -->
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
