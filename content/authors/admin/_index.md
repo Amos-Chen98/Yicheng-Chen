@@ -25,8 +25,8 @@ interests:
 # Education to show in About widget
 education:
   courses:
-  - course: Visiting Student (Online work)
-    institution: Peter the Great St.Petersburg Polytechnic University
+  - institution: Peter the Great St.Petersburg Polytechnic University 
+    course: Visiting Student (Online work)
     year: 2020.07
   - course: Visiting Student in the Department of Applied Mathematics and Computer Science
     institution: Technical University of Denmark
